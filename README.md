@@ -95,8 +95,8 @@ The horizontal threaded rod is typically used to hold the pulley that drives the
 
 ## Output:
 
-### Name: 
-### Register Number:
+### Name: Maheswaran.K
+### Register Number: 212222110023
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
