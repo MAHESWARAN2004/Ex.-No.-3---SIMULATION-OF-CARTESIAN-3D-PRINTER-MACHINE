@@ -86,7 +86,7 @@ The Y-axis supporter must be designed to withstand the forces generated during p
 
 The horizontal threaded rod is typically used to hold the pulley that drives the movement of the print bed along the Y-axis.The vertical threaded rod is typically used to control the Z-axis movement of the print bed
 
-![image](https://github.com/KANISHKAR2607/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118886772/b7559f3f-eaa3-43f0-b289-355114f4cba8)
+![WhatsApp Image 2023-05-18 at 18 30 03](https://github.com/MAHESWARAN2004/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119478181/a04a7ea1-d067-43c6-bf07-096f7cf0856b)
 
 ![image](https://github.com/KANISHKAR2607/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118886772/00b91d16-d3d4-4e01-8f17-7e6c2d28e191)
 
